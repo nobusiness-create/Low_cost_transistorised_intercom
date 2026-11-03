@@ -60,7 +60,7 @@ Future improvements may include completing and verifying the two-station audio p
 
 ## Project cost
 
-Project cost: ₹500
+Project cost: ₹250
 
 ## Learning outcomes
 
