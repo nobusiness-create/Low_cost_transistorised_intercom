@@ -43,6 +43,8 @@ The original goal was to build two identical units and connect them for two-way 
 5. The loudspeaker converts the electrical audio signal back into sound.
 
 Resistors establish the transistor operating points, while capacitors provide signal coupling, bypassing and supply decoupling as shown in the circuit.
+## Circuit Diagram
+<img width="1042" height="308" alt="image" src="https://github.com/user-attachments/assets/3ed0c91f-af31-4d5b-aca3-34a4f46e1b61" />
 
 ## Prototype photographs
 
