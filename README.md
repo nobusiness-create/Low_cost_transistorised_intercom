@@ -48,10 +48,6 @@ Resistors establish the transistor operating points, while capacitors provide si
 
 ## Prototype photographs
 
-### Front view
-![Prototype front view](images/prototype_front_view.jpg)
-
-### Close-up of the assembled board
 ![Prototype close-up](images/prototype_closeup.jpg)
 
 ## Future work
